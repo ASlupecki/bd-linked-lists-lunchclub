@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="LunchClubTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-09-19T15:32:42" hostname="Lambda-School-Brian-Meermans-MacBook-Pro.local" time="0.025">
+<testsuite name="LunchClubTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-07-24T17:48:33" hostname="Abigails-MacBook-Pro.local" time="0.025">
   <properties/>
   <testcase name="moo()" classname="LunchClubTest" time="0.02"/>
   <testcase name="addGroupToLine_addTwoPeople_fiveMembers()" classname="LunchClubTest" time="0.001"/>
